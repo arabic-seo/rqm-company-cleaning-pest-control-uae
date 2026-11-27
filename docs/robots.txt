@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arabic-seo.github.io/rqm-company-cleaning-pest-control-uae/sitemap.xml
